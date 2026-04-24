@@ -1,0 +1,92 @@
+{
+	"dialog": [
+		{
+			"cover": "/ads/txy/ycp_500_500.png",
+			"title": "【腾讯云】云产品特惠热卖中",
+			"description": "云服务器、云数据库、COS、CDN、短信等云产品特惠热卖中</br> 限时特惠： 轻量 2核2G4M 3年/560元、最低至 1年/99元 </br> 免费领取：活动页面免费领取 1888元-11000元 代金劵礼包 </br> <span style='color:#3B91EA;text-decoration: underline;'>活动时间和数量有限，点击跳转活动页面查看更多活动！</span>",
+			"link": "https://curl.qcloud.com/fLnhq0RD",
+			"from": "腾讯云",
+			"visible": true,
+			"expire": "2024-11-30 23:59:59",
+			"types": [
+				"text-image",
+				"link"
+			]
+		},
+		{
+			"cover": "/ads/lxware/halo_1panel.png",
+			"title": " Halo & 1Panel 专业版",
+			"description": "强大易用的建站和运维工具，订阅专业版解锁更多功能和服务 </br> 输入专属优惠码【<span style='color:#FF4C07;'>HJfS5bBK</span>】享受低至 <span style='color:#3B91EA;font-weight: bold;'>8折</span> 优惠！ </br> <span style='color:#3B91EA;text-decoration: underline;'>点击跳转购买页面！</span>",
+			"link": "https://www.lxware.cn?code=HJfS5bBK",
+			"from": "凌霞软件",
+			"visible": true,
+			"expire": "2099-11-30 23:59:59",
+			"types": [
+				"text-image",
+				"link"
+			]
+		},
+		{
+			"cover": "/ads/muyin/yewujieshao.jpg",
+			"title": "木因插件（Halo CMS 插件）",
+			"description": "木因插件：专门为 Halo CMS 打造高质量、实用的插件",
+			"link": "https://auth.muyin.site/products",
+			"from": "木因插件",
+			"visible": true,
+			"expire": "2099-11-30 23:59:59",
+			"types": [
+				"image",
+				"link",
+				"button"
+			],
+			"coverHeight": "27vh"
+		}
+	],
+	"asideNavAfter": [
+		{
+			"cover": "/ads/txy/ycp_560_300.png",
+			"title": "【腾讯云】云服务器、云数据库、COS、CDN、短信等云产品特惠热卖中",
+			"description": "【腾讯云】云服务器、云数据库、COS、CDN、短信等云产品特惠热卖中",
+			"link": "https://curl.qcloud.com/fLnhq0RD",
+			"from": "腾讯云",
+			"visible": true,
+			"expire": "2024-11-30 23:59:59"
+		},
+		{
+			"cover": "/ads/txy/pt_go_518_292.png",
+			"title": "【腾讯云】百款折扣商品任意拼，双人成团，PK有大礼，2核2G云服务器低至 68元/年",
+			"description": "【腾讯云】百款折扣商品任意拼，双人成团，PK有大礼，2核2G云服务器低至 68元/年",
+			"link": "https://curl.qcloud.com/yotXicNI",
+			"from": "腾讯云",
+			"visible": true,
+			"expire": "2024-11-30 23:59:59"
+		},
+		{
+			"cover": "/ads/txy/szr_560_300.png",
+			"title": "【腾讯云】腾讯云数智人专享折扣！新用户3折，新老同享7折！助力内容创作、企业降本增效！",
+			"description": "【腾讯云】腾讯云数智人专享折扣！新用户3折，新老同享7折！助力内容创作、企业降本增效！",
+			"link": "https://curl.qcloud.com/VK05vysd",
+			"from": "腾讯云",
+			"visible": true,
+			"expire": "2024-11-30 23:59:59"
+		},
+		{
+			"cover": "/ads/lxware/halo_1panel_info.png",
+			"title": " Halo & 1Panel 专业版",
+			"description": "强大易用的开源建站工具，付费订阅专业版解锁更多功能和服务 </br> 点击跳转，输入专属优惠码【HJfS5bBK】享受 8.8 折优惠！ </br> <span style='color:#3B91EA;text-decoration: underline;'>点击跳转购买页面！</span>",
+			"link": "https://www.lxware.cn?code=HJfS5bBK",
+			"from": "凌霞软件",
+			"visible": true,
+			"expire": "2099-11-30 23:59:59"
+		},
+		{
+			"cover": "/ads/lxware/halo_1panel_qrcode.png",
+			"title": " Halo & 1Panel 专业版",
+			"description": "强大易用的开源建站工具，付费订阅专业版解锁更多功能和服务 </br> 点击跳转，输入专属优惠码【HJfS5bBK】享受 8.8 折优惠！ </br> <span style='color:#3B91EA;text-decoration: underline;'>点击跳转购买页面！</span>",
+			"link": "",
+			"from": "凌霞软件",
+			"visible": true,
+			"expire": "2099-11-30 23:59:59"
+		}
+	]
+}

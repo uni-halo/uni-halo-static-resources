@@ -1,0 +1,161 @@
+{
+	"donates": {
+		"title": "赞助打赏",
+		"description": "给本项目捐助和赞赏的博主，排名不分前后",
+		"list": [
+			{
+				"name": "南枝已谢",
+				"image": "https://www.xgrsir.com/upload/xgrsir.ico",
+				"link": "https://xgrsir.com/",
+				"desc": "人生如逆旅，我亦是行人。",
+				"spend": "16.80 - QQ红包 - 20241018",
+				"screenshot": "https://blog.xiaoxiaomo.cn/upload/xgrsir_screenshot.png"
+			},
+			{
+				"name": "xiaohao",
+				"image": "https://ynxh.top/upload/xiaohao/6FFA33D3-4D53-43D5-9625-256F1D36FBFF_1_105_c.jpeg",
+				"link": "https://ynxh.top/",
+				"desc": "Xiaohao成长日记。",
+				"spend": "50.00 - 微信打赏 - 20241025",
+				"screenshot": "https://blog.xiaoxiaomo.cn/upload/ynxh_screenshot.png"
+			},
+			{
+				"name": "悠米是只猫",
+				"image": "https://cdn.niujinkai.com/resource/logo.png",
+				"link": "https://www.niujinkai.com",
+				"desc": "一切顺其自然~",
+				"spend": "50.00 - 微信打赏 - 20250208",
+				"screenshot": "https://cdn.niujinkai.com/resource/769c56ad-269e-4b24-a455-fe36c9300a77.png"
+			}
+		]
+	},
+	"contributions": {
+		"title": "开发贡献",
+		"description": "参与项目贡献的开发者，排名不分前后",
+		"list": [
+			{
+				"name": "小莫唐尼",
+				"image": "https://blog.xiaoxiaomo.cn/upload/avatar.jpg",
+				"link": "https://blog.xiaoxiaomo.cn/",
+				"desc": "一个爱凑热闹，喜欢捣鼓前端的博主。",
+				"screenshot": "https://blog.xiaoxiaomo.cn/upload/xiao_screenshot.png"
+			},
+			{
+				"name": "木因博客",
+				"image": "https://blog.muyin.site/upload/liuyiwuqing.png",
+				"link": "https://blog.muyin.site/",
+				"desc": "心在哪里收获就在哪里。",
+				"screenshot": "https://blog.xiaoxiaomo.cn/upload/muyin_screenshot.png"
+			},
+			{
+				"name": "UniHalo",
+				"image": "https://uni-halo.925i.cn/logo.png",
+				"link": "https://blog.xiaoxiaomo.cn/",
+				"desc": "开源免费 Halo 博客小程序，支持多端编译。",
+				"screenshot": "https://uni-halo.925i.cn/screenshot.png"
+			}
+		]
+	},
+	"friends": {
+		"title": "站长博主",
+		"description": "技术、博客、生活等其他站点",
+		"list": [
+			{
+				"name": "秋叶资源",
+				"image": "http://touch.qybhl.top/i/2024/08/19/66c2cb8f03040.png",
+				"link": "https://www.qybhl.com",
+				"desc": "专注免费资源分享，将免费资源进行到底。",
+				"screenshot": "https://blog.xiaoxiaomo.cn/upload/qybhl_screenshot.png"
+			},
+			{
+				"name": "Taupis的随笔",
+				"image": "https://taupis.com/upload/123.png",
+				"link": "https://taupis.com",
+				"desc": "知足常乐，南风不竞。",
+				"screenshot": "https://blog.xiaoxiaomo.cn/upload/taupis_screenshot.png"
+			},
+			{
+				"name": "Finley",
+				"image": "https://www.finley.top/upload/merzfx.jpg",
+				"link": "https://www.finley.top",
+				"desc": "探索技术之奥秘，记录生活之点滴。",
+				"screenshot": "https://blog.xiaoxiaomo.cn/upload/finley_screenshot.png"
+			},
+			{
+				"name": "XiSoul Blog's",
+				"image": "https://pic.imgdb.cn/item/6672e2f5d9c307b7e9f9e1da.png",
+				"link": "https://xisoul.cn",
+				"desc": "啥都玩，可以来看看",
+				"screenshot": ""
+			},
+			{
+				"name": "小和恋爱记",
+				"image": "https://52he.cc/upload/7.webp",
+				"link": "https://52he.cc",
+				"desc": "愿我如星君如月，夜夜流光相皎洁。",
+				"screenshot": ""
+			},
+			{
+				"name": "山河的世界",
+				"image": "https://www.shanriver.top/images/upload/head.jpg",
+				"link": "https://blog.shanriver.top",
+				"desc": "与你共享经验",
+				"screenshot": "https://blog.shanriver.top/wp-content/uploads/2025/06/wechat_2025-06-10_092225_799.png"
+			}
+		]
+	},
+	"openSources": {
+		"title": "开源项目",
+		"description": "项目使用技术和优秀的开源项目推荐",
+		"list": [
+			{
+				"name": "Halo",
+				"image": "https://www.halo.run/upload/2021/03/Adaptive256-463ca9b92e2d40268431018c07735842.png",
+				"link": "https://www.halo.run/",
+				"desc": "强大易用的开源建站工具。",
+				"screenshot": "https://blog.xiaoxiaomo.cn/upload/halo_screenshot.png",
+				"visible": true
+			},
+			{
+				"name": "uni-app",
+				"image": "https://qiniu-web-assets.dcloud.net.cn/unidoc/zh/uni.png",
+				"link": "https://uniapp.dcloud.net.cn/",
+				"desc": "一个使用 Vue.js 开发所有前端应用的框架。",
+				"screenshot": "",
+				"visible": true
+			},
+			{
+				"name": "unibest",
+				"image": "https://unibest.tech/logo.svg",
+				"link": "https://unibest.tech/",
+				"desc": "最好的 uniapp 开发框架。",
+				"screenshot": "",
+				"visible": false
+			},
+			{
+				"name": "Wot Design Uni",
+				"image": "https://wot-ui.cn/logo.png",
+				"link": "https://wot-ui.cn/",
+				"desc": "高颜值、轻量化的uni-app组件库。",
+				"screenshot": "",
+				"visible": false
+			},
+			{
+				"name": "tm-vuetify",
+				"image": "https://jx2d.cn/images/logo_min.png",
+				"link": "https://jx2d.cn/",
+				"desc": "UniApp 跨端UI组件库。",
+				"screenshot": "",
+				"visible": true
+			},
+			{
+				"name": "mp-html",
+				"image": "https://github.com/jin-yufeng/mp-html/blob/master/docs/assets/logo/logo.png?raw=true",
+				"link": "https://github.com/jin-yufeng/mp-html",
+				"desc": "一个强大的小程序富文本组件。",
+				"screenshot": "",
+				"visible": true
+			}
+		]
+	}
+}

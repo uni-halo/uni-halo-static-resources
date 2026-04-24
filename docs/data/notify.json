@@ -1,0 +1,11 @@
+{
+	"enable": true,
+	"title": "消息通知",
+	"body": "作者【小莫唐尼】个人主页已上线，点击通知卡片去观望一下吧。",
+	"badge": "https://blog.xiaoxiaomo.cn/upload/avatar.jpg",
+	"icon": "https://blog.xiaoxiaomo.cn/upload/avatar.jpg",
+	"image": "https://blog.xiaoxiaomo.cn/upload/xiaomo_homepage.png",
+	"link": "https://www.xiaoxiaomo.cn/",
+	"autoClose": false,
+	"sleep": 5000
+}
